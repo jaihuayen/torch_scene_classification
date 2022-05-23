@@ -1,0 +1,39 @@
+Testing set: Average loss: 0.0029, Accuracy: 539/600 (90%)
+
+                     precision    recall  f1-score   support
+
+       10_Waterfall       0.95      1.00      0.98        20
+            11_Snow       0.82      0.90      0.86        20
+       12_Landscape       0.68      0.85      0.76        20
+      13_Underwater       1.00      1.00      1.00        20
+    14_Architecture       0.76      0.95      0.84        20
+  15_Sunset_Sunrise       0.91      1.00      0.95        20
+        16_Blue_Sky       1.00      0.45      0.62        20
+      17_Cloudy_Sky       0.88      0.75      0.81        20
+        18_Greenery       0.94      0.75      0.83        20
+   19_Autumn_leaves       1.00      0.80      0.89        20
+         1_Portrait       1.00      0.70      0.82        20
+          20_Flower       1.00      0.85      0.92        20
+      21_Night_shot       0.83      0.95      0.88        20
+   22_Stage_concert       1.00      0.85      0.92        20
+       23_Fireworks       0.87      1.00      0.93        20
+    24_Candle_light       1.00      0.95      0.97        20
+     25_Neon_lights       0.83      0.95      0.88        20
+          26_Indoor       1.00      0.95      0.97        20
+       27_Backlight       1.00      0.70      0.82        20
+  28_Text_Documents       1.00      1.00      1.00        20
+       29_QR_images       0.95      0.90      0.92        20
+   2_Group_portrait       0.87      1.00      0.93        20
+30_Computer_Screens       1.00      1.00      1.00        20
+             3_Kids       0.91      1.00      0.95        20
+              4_Dog       0.91      1.00      0.95        20
+              5_Cat       1.00      0.95      0.97        20
+            6_Macro       0.67      0.80      0.73        20
+             7_Food       0.91      1.00      0.95        20
+            8_Beach       0.91      1.00      0.95        20
+         9_Mountain       0.76      0.95      0.84        20
+
+           accuracy                           0.90       600
+          macro avg       0.91      0.90      0.90       600
+       weighted avg       0.91      0.90      0.90       600
+
